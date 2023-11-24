@@ -1,0 +1,14 @@
+body {
+    background-image: linear-gradient(rgb(126, 126, 216), rgb(175, 175, 223), rgb(60, 60, 216));
+}
+ h1 {
+    font-size: 30PX;
+    text-align: center;
+ }
+
+#baleia {
+    height: 300px%;
+    width: 300px;
+    margin: 5px;
+    padding: 5px;
+}
